@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/eve/Developer/flutter/wordPiggyBank/app/wordPiggyBank/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml",
+            "map": [
+                {
+                    "source": "/Users/eve/.gradle/caches/transforms-2/files-2.1/c25ab13732d596248233a3edeb8b309f/jetified-play-services-ads-20.2.0/res/values-gl/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,305,442,522,671,752,899,1018,1087,1212,1277,1343,1427,1544",
+                        "endColumns": "105,136,79,148,80,146,118,68,124,64,65,83,116,71",
+                        "endOffsets": "304,441,521,670,751,898,1017,1086,1211,1276,1342,1426,1543,1615"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "403,513,654,738,891,976,1127,1474,1547,1676,1745,1815,1903,2024",
+                        "endColumns": "109,140,83,152,84,150,122,72,128,68,69,87,120,75",
+                        "endOffsets": "508,649,733,886,971,1122,1245,1542,1671,1740,1810,1898,2019,2095"
+                    }
+                },
+                {
+                    "source": "/Users/eve/.gradle/caches/transforms-2/files-2.1/dd1c4ac0d91354cd162679805abac19a/jetified-media2-session-1.1.0-alpha01/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,160,274,384,520",
+                        "endColumns": "104,113,109,135,141",
+                        "endOffsets": "155,269,379,515,657"
+                    },
+                    "to": {
+                        "startLines": "3,11,12,20,21",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "298,1250,1364,2100,2236",
+                        "endColumns": "104,113,109,135,141",
+                        "endOffsets": "398,1359,1469,2231,2373"
+                    }
+                },
+                {
+                    "source": "/Users/eve/.gradle/caches/transforms-2/files-2.1/544eab86e7823cb4f6f6bbcd34094c52/core-1.2.0/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2378",
+                        "endColumns": "100",
+                        "endOffsets": "2474"
+                    }
+                },
+                {
+                    "source": "/Users/eve/.gradle/caches/transforms-2/files-2.1/2fa3c72ca073128d20912ee0a59c6ddd/jetified-play-services-basement-17.6.0/res/values-gl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "192",
+                        "endOffsets": "439"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "192",
+                        "endOffsets": "293"
+                    }
+                }
+            ]
+        }
+    ]
+}
